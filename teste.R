@@ -7,3 +7,10 @@ y <- 3
 a = y + 2
 
 pessoa <- 0
+
+y <- 3
+a = y + 2
+
+pessoa <- 0
+
+tt <- 29495
